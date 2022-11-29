@@ -101,6 +101,3 @@ and in this file first we have to put classes name according to your dataset.
 * You've Activated your virtual environment and you need to install all your required library for creating this app.
 * Then Create a python file and write code for streamlit app
 * Fro executing this code run this command in command prompt (streamlit run python_file_name.py)
-
-## Final Output 
-![Screenshot](v4.png)
